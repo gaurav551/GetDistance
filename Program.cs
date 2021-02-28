@@ -29,7 +29,7 @@ namespace GetNearbyLocation
             string location = Console.ReadLine();
             Console.WriteLine("You are in " + location);
             //Get Nearby within certain area
-            int withInKtm = 2;
+            int withInKm = 2;
             var coord = places.FirstOrDefault(x => x.Name.Equals(location, StringComparison.OrdinalIgnoreCase));
             if (coord != null)
             {
@@ -40,10 +40,10 @@ namespace GetNearbyLocation
                     PlaceId = x.Id,
                     PlaceName = x.Name,
                     Distance = GetDistance.DistanceTo(x.Latitude, x.Longitude, lat, longitude)
-                }).OrderBy(p => p.Distance).Where(e => e.PlaceId != coord.Id && e.Distance < withInKtm).Take(2).ToList();
+                }).OrderBy(p => p.Distance).Where(e => e.PlaceId != coord.Id && e.Distance < withInKm).Take(2).ToList();
                 if (data.Count <= 0)
                 {
-                    System.Console.WriteLine("Sorry!  No places in " + location + " around  " + withInKtm + " KM");
+                    System.Console.WriteLine("Sorry!  No places in " + location + " around  " + withInKm + " KM");
                 }
                 // System.Console.WriteLine("Nearest Places Are " + string.Join(",", data.PlaceName) );
                 foreach (var item in data)
