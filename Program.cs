@@ -44,7 +44,7 @@ namespace GetNearbyLocation
                 var data = places.Select(x=> new Results(){
                   PlaceId = x.Id,
                   PlaceName = x.Name,
-                  Distance = GetDistance.DistanceTo(x.Latitude, x.Longitude, lat, longitude , 'K')
+                  Distance = GetDistance.DistanceTo(x.Latitude, x.Longitude, lat, longitude)
                 }).OrderBy(p=>p.Distance).Where(e=>e.PlaceId!=coord.Id && e.Distance<withInKtm).Take(2).ToList();
 
                 if(data.Count<=0)
