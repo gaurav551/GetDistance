@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\bin\Debug\net5.0\GetNearbyLocation.exe
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\bin\Debug\net5.0\GetNearbyLocation.deps.json
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\bin\Debug\net5.0\GetNearbyLocation.runtimeconfig.json
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\bin\Debug\net5.0\GetNearbyLocation.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\bin\Debug\net5.0\GetNearbyLocation.dll
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\bin\Debug\net5.0\ref\GetNearbyLocation.dll
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\bin\Debug\net5.0\GetNearbyLocation.pdb
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.dll
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\ref\GetNearbyLocation.dll
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.pdb
+C:\Users\DELL\Desktop\Console\GetNearbyLocation\obj\Debug\net5.0\GetNearbyLocation.genruntimeconfig.cache
