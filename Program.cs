@@ -13,14 +13,14 @@ namespace GetNearbyLocation
             new Place(){Id=5,Name="Jawalakhel", Longitude=85.311766, Latitude=27.676621},
             new Place(){Id=6, Name="Ekantakuna", Longitude=85.308349, Latitude=27.666833},
             new Place(){Id=7,Name="Balkot", Longitude=85.377856, Latitude=27.666283},
-             new Place(){Id=8, Name="Sanepa", Longitude=85.305875, Latitude=27.684505},
+            new Place(){Id=8, Name="Sanepa", Longitude=85.305875, Latitude=27.684505},
             new Place(){Id=9,Name="Lazimpat", Longitude= 85.323316, Latitude=  27.725161},
-             new Place(){Id=10,Name="Kalimati", Longitude=85.288120, Latitude=27.697179},
-             new Place(){Id=11, Name="Bhotahiti", Longitude=85.314090, Latitude=27.706860},
+            new Place(){Id=10,Name="Kalimati", Longitude=85.288120, Latitude=27.697179},
+            new Place(){Id=11, Name="Bhotahiti", Longitude=85.314090, Latitude=27.706860},
             new Place(){Id=12,Name="Kuleshwor", Longitude= 85.296663, Latitude=  27.692186},
-              new Place(){Id=11, Name="Kritipur", Longitude= 85.277480, Latitude= 27.664402},
-            new Place(){Id=12,Name="Chobhar", Longitude= 85.277377, Latitude= 27.655596},
-            new Place(){Id=12,Name="Panauti", Longitude= 85.517106, Latitude=   27.591603}
+            new Place(){Id=13, Name="Kritipur", Longitude= 85.277480, Latitude= 27.664402},
+            new Place(){Id=14,Name="Chobhar", Longitude= 85.277377, Latitude= 27.655596},
+            new Place(){Id=15,Name="Panauti", Longitude= 85.517106, Latitude=   27.591603}
         };
         static void Main(string[] args)
         {
